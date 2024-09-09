@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lawal</h1>
 <h3 align="center">A Software Engineer</h3>
 
-- 🔭 I’m currently working on **OCR model to convert handwritten text to digital text**
+- 🔭 I’m currently working on an **OCR model to convert handwritten text to digital text**
 
 - 🌱 I’m currently learning **NodeJS**
 
